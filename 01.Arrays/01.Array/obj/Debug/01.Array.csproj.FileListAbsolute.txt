@@ -1,0 +1,1 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\01.Array\bin\Debug\01.Array.exe.config

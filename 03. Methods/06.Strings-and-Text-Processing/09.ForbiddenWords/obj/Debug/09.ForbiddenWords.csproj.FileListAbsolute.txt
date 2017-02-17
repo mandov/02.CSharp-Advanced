@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\07.Workdays\bin\Debug\07.Workdays.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\07.Workdays\bin\Debug\07.Workdays.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\07.Workdays\bin\Debug\07.Workdays.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\07.Workdays\obj\Debug\07.Workdays.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\07.Workdays\obj\Debug\07.Workdays.pdb

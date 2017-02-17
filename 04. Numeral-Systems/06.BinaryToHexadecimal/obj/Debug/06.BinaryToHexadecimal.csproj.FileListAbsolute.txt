@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\bin\Debug\06.BinaryToHexadecimal.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\06.BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

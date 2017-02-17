@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\bin\Debug\20.Palindromes.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\bin\Debug\20.Palindromes.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\bin\Debug\20.Palindromes.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\obj\Debug\20.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\obj\Debug\20.Palindromes.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\20.Palindromes\obj\Debug\20.Palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

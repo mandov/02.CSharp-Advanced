@@ -1,0 +1,1 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\07. LargestArea in matrix\bin\Debug\_07.LargestArea_in_matrix.exe.config

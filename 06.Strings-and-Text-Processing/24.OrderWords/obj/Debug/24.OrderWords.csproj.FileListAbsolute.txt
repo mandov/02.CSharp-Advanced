@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\bin\Debug\24.OrderWords.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\bin\Debug\24.OrderWords.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\bin\Debug\24.OrderWords.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\obj\Debug\24.OrderWords.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\obj\Debug\24.OrderWords.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\24.OrderWords\obj\Debug\24.OrderWords.csprojResolveAssemblyReference.cache

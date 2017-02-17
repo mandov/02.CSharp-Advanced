@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb

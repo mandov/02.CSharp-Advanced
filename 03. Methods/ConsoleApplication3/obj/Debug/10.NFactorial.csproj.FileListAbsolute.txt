@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

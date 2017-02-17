@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\bin\Debug\08.SumIntegers.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\bin\Debug\08.SumIntegers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\bin\Debug\08.SumIntegers.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\obj\Debug\08.SumIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\obj\Debug\08.SumIntegers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\08.SumIntegers\obj\Debug\08.SumIntegers.pdb

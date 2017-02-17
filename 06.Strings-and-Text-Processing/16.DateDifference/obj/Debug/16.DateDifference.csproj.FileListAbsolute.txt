@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\bin\Debug\16.DateDifference.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\bin\Debug\16.DateDifference.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\bin\Debug\16.DateDifference.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\obj\Debug\16.DateDifference.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\obj\Debug\16.DateDifference.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\16.DateDifference\obj\Debug\16.DateDifference.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\bin\Debug\04.SubStringInText.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\obj\Debug\04.SubStringInText.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\bin\Debug\04.SubStringInText.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\bin\Debug\04.SubStringInText.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\obj\Debug\04.SubStringInText.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\04.SubStringInText\obj\Debug\04.SubStringInText.pdb

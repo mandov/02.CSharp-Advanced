@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\bin\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\06.TriangleSurfaceByTwoSidesAndAnAngle\obj\Debug\06.TriangleSurfaceByTwoSidesAndAnAngle.csprojResolveAssemblyReference.cache

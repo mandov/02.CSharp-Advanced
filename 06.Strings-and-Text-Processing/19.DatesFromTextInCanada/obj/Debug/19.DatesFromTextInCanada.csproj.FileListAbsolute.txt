@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\bin\Debug\19.DatesFromTextInCanada.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\19.DatesFromTextInCanada\obj\Debug\19.DatesFromTextInCanada.csprojResolveAssemblyReference.cache

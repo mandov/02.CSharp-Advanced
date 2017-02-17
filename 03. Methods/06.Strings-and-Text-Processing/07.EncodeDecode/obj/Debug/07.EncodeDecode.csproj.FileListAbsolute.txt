@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb

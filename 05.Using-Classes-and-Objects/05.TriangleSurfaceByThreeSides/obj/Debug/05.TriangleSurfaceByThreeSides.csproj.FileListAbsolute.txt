@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\bin\Debug\05.TriangleSurfaceByThreeSides.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\05.TriangleSurfaceByThreeSides\obj\Debug\05.TriangleSurfaceByThreeSides.csprojResolveAssemblyReference.cache

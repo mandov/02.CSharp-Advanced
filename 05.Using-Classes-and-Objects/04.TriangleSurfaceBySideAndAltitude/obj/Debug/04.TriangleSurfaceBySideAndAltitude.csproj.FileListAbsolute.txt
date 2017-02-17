@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\bin\Debug\04.TriangleSurfaceBySideAndAltitude.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\04.TriangleSurfaceBySideAndAltitude\obj\Debug\04.TriangleSurfaceBySideAndAltitude.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

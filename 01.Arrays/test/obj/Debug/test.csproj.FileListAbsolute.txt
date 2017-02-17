@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\bin\Debug\test.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\bin\Debug\test.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\bin\Debug\test.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\obj\Debug\test.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\test\obj\Debug\test.pdb

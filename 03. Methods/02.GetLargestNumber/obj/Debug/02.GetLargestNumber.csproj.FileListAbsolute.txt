@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\02.GetLargestNumber\obj\Debug\02.GetLargestNumber.pdb

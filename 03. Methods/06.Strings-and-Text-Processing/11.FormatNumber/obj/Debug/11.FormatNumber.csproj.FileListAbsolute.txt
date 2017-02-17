@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\obj\Debug\11.FormatNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

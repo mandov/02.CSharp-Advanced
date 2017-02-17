@@ -1,0 +1,2 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\06.MatrixClass\bin\Debug\06.MatrixClass.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01. Multidimensional-Arrays\06.MatrixClass\obj\Debug\06.MatrixClass.csprojResolveAssemblyReference.cache

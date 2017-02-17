@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

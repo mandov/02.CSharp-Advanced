@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\obj\Debug\02.RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\bin\Debug\02.RandomNumbers.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\obj\Debug\02.RandomNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\05.Using-Classes-and-Objects\02.RandomNumbers\obj\Debug\02.RandomNumbers.pdb

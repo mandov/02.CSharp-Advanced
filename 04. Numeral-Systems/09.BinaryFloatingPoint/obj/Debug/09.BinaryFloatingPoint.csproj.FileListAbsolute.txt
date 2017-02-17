@@ -1,0 +1,1 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\04. Numeral-Systems\09.BinaryFloatingPoint\bin\Debug\09.BinaryFloatingPoint.exe.config

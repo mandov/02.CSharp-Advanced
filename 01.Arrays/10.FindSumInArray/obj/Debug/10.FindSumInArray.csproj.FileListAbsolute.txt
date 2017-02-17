@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\obj\Debug\10.FindSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

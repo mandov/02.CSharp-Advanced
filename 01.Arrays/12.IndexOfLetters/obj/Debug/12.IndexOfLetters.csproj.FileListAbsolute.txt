@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

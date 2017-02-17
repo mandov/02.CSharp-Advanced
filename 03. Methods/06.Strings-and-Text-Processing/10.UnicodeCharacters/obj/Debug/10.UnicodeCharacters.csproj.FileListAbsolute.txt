@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\obj\Debug\09. FrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\bin\Debug\_09.FrequentNumber.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\obj\Debug\_09.FrequentNumber.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\01.AllocateArray\09. FrequentNumber\obj\Debug\_09.FrequentNumber.pdb

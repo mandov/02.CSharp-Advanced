@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\obj\Debug\22.WordsCount.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\bin\Debug\22.WordsCount.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\obj\Debug\22.WordsCount.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\22.WordsCount\obj\Debug\22.WordsCount.pdb

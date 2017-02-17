@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\bin\Debug\14.WordDictionary.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\bin\Debug\14.WordDictionary.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\bin\Debug\14.WordDictionary.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\obj\Debug\14.WordDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\obj\Debug\14.WordDictionary.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\06.Strings-and-Text-Processing\14.WordDictionary\obj\Debug\14.WordDictionary.pdb
