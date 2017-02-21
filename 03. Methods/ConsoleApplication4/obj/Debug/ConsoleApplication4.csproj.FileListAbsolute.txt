@@ -1,6 +1,0 @@
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

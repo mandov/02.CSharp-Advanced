@@ -1,6 +1,0 @@
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\obj\Debug\06.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
-C:\Users\Gabriel\Desktop\Programing\C# Part 2\03. Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
