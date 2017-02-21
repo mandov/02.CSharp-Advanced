@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\bin\Debug\03.ReadFileContents.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\obj\Debug\03.ReadFileContents.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\obj\Debug\03.ReadFileContents.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\03.ReadFileContents\obj\Debug\03.ReadFileContents.pdb

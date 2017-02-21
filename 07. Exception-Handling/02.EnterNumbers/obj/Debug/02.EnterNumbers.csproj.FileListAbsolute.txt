@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\07. Exception-Handling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
