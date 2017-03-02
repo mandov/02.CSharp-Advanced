@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\bin\Debug\07.ReplaceSubString.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\07.ReplaceSubString\obj\Debug\07.ReplaceSubString.csprojResolveAssemblyReference.cache

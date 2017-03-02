@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

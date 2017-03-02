@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.csprojResolveAssemblyReference.cache

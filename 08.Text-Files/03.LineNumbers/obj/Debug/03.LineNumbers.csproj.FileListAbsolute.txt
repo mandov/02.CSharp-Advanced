@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\03.LineNumbers\bin\Debug\03.LineNumbers.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\03.LineNumbers\obj\Debug\03.LineNumbers.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\03.LineNumbers\obj\Debug\03.LineNumbers.pdb

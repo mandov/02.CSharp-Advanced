@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.pdb

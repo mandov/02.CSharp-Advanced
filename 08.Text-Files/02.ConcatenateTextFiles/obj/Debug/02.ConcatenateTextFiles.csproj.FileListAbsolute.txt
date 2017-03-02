@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\08.Text-Files\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.csprojResolveAssemblyReference.cache
