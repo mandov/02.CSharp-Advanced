@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\bin\Debug\2.GreedyDwarf.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.GreedyDwarf\obj\Debug\2.GreedyDwarf.pdb

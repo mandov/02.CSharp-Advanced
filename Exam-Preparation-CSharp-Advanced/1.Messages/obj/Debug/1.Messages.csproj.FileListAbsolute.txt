@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\bin\Debug\1.Messages.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\bin\Debug\1.Messages.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\bin\Debug\1.Messages.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\obj\Debug\1.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\obj\Debug\1.Messages.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.Messages\obj\Debug\1.Messages.pdb

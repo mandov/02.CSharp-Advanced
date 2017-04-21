@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\bin\Debug\2.DancingMoves.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\bin\Debug\2.DancingMoves.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\bin\Debug\2.DancingMoves.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\obj\Debug\2.DancingMoves.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\obj\Debug\2.DancingMoves.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.DancingMoves\obj\Debug\2.DancingMoves.pdb

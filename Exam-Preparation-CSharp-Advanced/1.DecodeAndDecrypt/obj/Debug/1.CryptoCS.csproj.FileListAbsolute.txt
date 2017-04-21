@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\obj\Debug\1.CryptoCS.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\bin\Debug\1.DecodeAndDecrypt.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\bin\Debug\1.DecodeAndDecrypt.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\bin\Debug\1.DecodeAndDecrypt.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\obj\Debug\1.DecodeAndDecrypt.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.DecodeAndDecrypt\obj\Debug\1.DecodeAndDecrypt.pdb

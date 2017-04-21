@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\bin\Debug\1.CalculationProblem.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\bin\Debug\1.CalculationProblem.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\obj\Debug\1.CalculationProblem.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\obj\Debug\1.CalculationProblem.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.CalculationProblem\obj\Debug\1.CalculationProblem.pdb

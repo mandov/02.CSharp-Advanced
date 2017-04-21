@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\bin\Debug\2.EvenDifferences.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\bin\Debug\2.EvenDifferences.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\bin\Debug\2.EvenDifferences.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\obj\Debug\2.EvenDifferences.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\obj\Debug\2.EvenDifferences.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\2.EvenDifferences\obj\Debug\2.EvenDifferences.csprojResolveAssemblyReference.cache

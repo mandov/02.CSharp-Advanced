@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\bin\Debug\1.FunctionalNumeralSystem.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\obj\Debug\1.FunctionalNumeralSystem.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\bin\Debug\1.FunctionalNumeralSystem.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\bin\Debug\1.FunctionalNumeralSystem.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\obj\Debug\1.FunctionalNumeralSystem.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\1.FunctionalNumeralSystem\obj\Debug\1.FunctionalNumeralSystem.pdb

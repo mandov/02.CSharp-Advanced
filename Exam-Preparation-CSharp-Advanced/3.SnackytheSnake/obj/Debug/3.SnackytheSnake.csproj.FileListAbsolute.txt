@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\bin\Debug\3.SnackytheSnake.exe.config
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\bin\Debug\3.SnackytheSnake.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\bin\Debug\3.SnackytheSnake.pdb
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\obj\Debug\3.SnackytheSnake.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\obj\Debug\3.SnackytheSnake.exe
+C:\Users\Gabriel\Desktop\Programing\C# Part 2\Exam-Preparation-CSharp-Advanced\3.SnackytheSnake\obj\Debug\3.SnackytheSnake.pdb
